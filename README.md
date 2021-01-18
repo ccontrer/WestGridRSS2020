@@ -41,6 +41,6 @@ Python would be helpful. I recommend the following order
 1. [Python Intro](python/Intro.ipynb) & [Python Types](python/Types.ipynb)
 1. [Numpy](numpy/NumpyIntro.ipynb)
 1. [Matplotlib](matplotlib/MatplotlibIntro.ipynb)
-1. [Pandas](pandas/pandasIntro.ipynb)
+1. [Pandas](pandas/PandasIntro.ipynb)
 
 Skipping any subjects you're already familiar with.
